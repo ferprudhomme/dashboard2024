@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Salina Cruz - Tapachula.kml</name>
+	<Schema name="En planeación" id="S_En_planeación_SSSSSSIIIISI">
+		<SimpleField type="string" name="Name"><displayName>&lt;b&gt;Name&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="descriptio"><displayName>&lt;b&gt;descriptio&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="timestamp"><displayName>&lt;b&gt;timestamp&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="begin"><displayName>&lt;b&gt;begin&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="end"><displayName>&lt;b&gt;end&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="altitudeMo"><displayName>&lt;b&gt;altitudeMo&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="int" name="tessellate"><displayName>&lt;b&gt;tessellate&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="int" name="extrude"><displayName>&lt;b&gt;extrude&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="int" name="visibility"><displayName>&lt;b&gt;visibility&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="int" name="drawOrder"><displayName>&lt;b&gt;drawOrder&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="icon"><displayName>&lt;b&gt;icon&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="int" name="orig_ogc_f"><displayName>&lt;b&gt;orig_ogc_f&lt;/b&gt;</displayName>
+</SimpleField>
+	</Schema>
+	<Style id="style1">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>Name</b></td><td>$[En planeación/Name]</td></tr>
+  <tr><td><b>descriptio</b></td><td>$[En planeación/descriptio]</td></tr>
+  <tr><td><b>timestamp</b></td><td>$[En planeación/timestamp]</td></tr>
+  <tr><td><b>begin</b></td><td>$[En planeación/begin]</td></tr>
+  <tr><td><b>end</b></td><td>$[En planeación/end]</td></tr>
+  <tr><td><b>altitudeMo</b></td><td>$[En planeación/altitudeMo]</td></tr>
+  <tr><td><b>tessellate</b></td><td>$[En planeación/tessellate]</td></tr>
+  <tr><td><b>extrude</b></td><td>$[En planeación/extrude]</td></tr>
+  <tr><td><b>visibility</b></td><td>$[En planeación/visibility]</td></tr>
+  <tr><td><b>drawOrder</b></td><td>$[En planeación/drawOrder]</td></tr>
+  <tr><td><b>icon</b></td><td>$[En planeación/icon]</td></tr>
+  <tr><td><b>orig_ogc_f</b></td><td>$[En planeación/orig_ogc_f]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Salina Cruz - Tapachula</name>
+		<styleUrl>#style1</styleUrl>
+		<Style id="inline">
+			<IconStyle>
+				<color>ffe7ebef</color>
+				<colorMode>normal</colorMode>
+			</IconStyle>
+			<LineStyle>
+				<color>ffe7ebef</color>
+				<colorMode>normal</colorMode>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffe7ebef</color>
+				<colorMode>normal</colorMode>
+			</PolyStyle>
+		</Style>
+		<ExtendedData>
+			<SchemaData schemaUrl="#S_En_planeación_SSSSSSIIIISI">
+				<SimpleData name="Name">Salina Cruz - Tapachula</SimpleData>
+				<SimpleData name="descriptio"></SimpleData>
+				<SimpleData name="timestamp"></SimpleData>
+				<SimpleData name="begin"></SimpleData>
+				<SimpleData name="end"></SimpleData>
+				<SimpleData name="altitudeMo"></SimpleData>
+				<SimpleData name="tessellate">1</SimpleData>
+				<SimpleData name="extrude">0</SimpleData>
+				<SimpleData name="visibility">-1</SimpleData>
+				<SimpleData name="drawOrder">0</SimpleData>
+				<SimpleData name="icon"></SimpleData>
+				<SimpleData name="orig_ogc_f">1</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<LineString>
+			<coordinates>
+				-95.01462799999997,16.589869,0 -94.90770899999997,16.56228199999998,0 -94.555361,16.41999600000001,0 -94.42357399999997,16.33313599999999,0 -94.34009799999997,16.30574299999999,0 -94.28667900000001,16.30532799999998,0 -94.19272299999997,16.258515,0 -94.10593799999997,16.23088999999999,0 -93.87428099999997,16.13058000000002,0 -93.69282899999997,16.03034599999999,0 -93.51457199999996,15.878718,0 -93.39250899999999,15.78018200000001,0 -93.31915599999998,15.674625,0 -93.26926999999999,15.61520900000001,0 -92.64388399999999,15.13439899999998,0 -92.33589099999999,14.89805100000002,0 -92.32240399999999,14.888936,0 -92.31115699999995,14.89404500000002,0 -92.29812399999997,14.901464,0 -92.29052999999998,14.90491700000001,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

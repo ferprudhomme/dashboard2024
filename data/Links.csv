@@ -1,0 +1,39 @@
+﻿source,name.S,target,name.T,name.l,value,units
+0,Associated Gas (MMcfd),2,National Producction (MMcfd),Link1,1,MMcfd
+1,Non-Associated Gas (MMcfd),2,National Producction (MMcfd),Link2,1,MMcfd
+2,National Producction (MMcfd),4,Gas Plants (MMpcfd),Link3,1,MMcfd
+2,National Producction (MMcfd),5,Gas venting (MMcfd),Link4,1,MMcfd
+2,National Producction (MMcfd),6,Impurities (MMcfd),Link5,1,MMcfd
+4,Gas Plants (MMpcfd),7,Gasolines (Mbd),Link6,1,Mbd
+4,Gas Plants (MMpcfd),8,Ethane (Mbd),Link7,1,Mbd
+4,Gas Plants (MMpcfd),9,Gas Liquids (Mbd),Link8,1,Mbd
+3,Dry Gas Fields (MMcfd),10,Dry Gas (MMcfd),Link9,1,MMcfd
+4,Gas Plants (MMpcfd),10,Dry Gas (MMcfd),Link10,1,MMcfd
+11,Ciudad Juárez (MMcfd),20,Pemex Imports (MMcfd),Link11,1,MMcfd
+12,Monterrey (MMcfd),20,Pemex Imports (MMcfd),Link12,1,MMcfd
+13,Naco (MMcfd),20,Pemex Imports (MMcfd),Link13,1,MMcfd
+14,Piedras Negras (MMcfd),20,Pemex Imports (MMcfd),Link14,1,MMcfd
+15,Reynosa (MMcfd),20,Pemex Imports (MMcfd),Link15,1,MMcfd
+16,Rosarito (MMcfd),20,Pemex Imports (MMcfd),Link16,1,MMcfd
+17,Manzanillo (MMcfd),20,Pemex Imports (MMcfd),Link17,1,MMcfd
+18,Camargo (MMcfd),20,Pemex Imports (MMcfd),Link18,1,MMcfd
+20,Pemex Imports (MMcfd),22,Pemex Supply (MMcfd),Link19,1,MMcfd
+19,Ethane to gas pipelines (MMcfd),22,Pemex Supply (MMcfd),Link20,1,MMcfd
+10,Dry Gas (MMcfd),22,Pemex Supply (MMcfd),Link21,1,MMcfd
+22,Pemex Supply (MMcfd),23,Pemex Consumption (MMcfd),Link22,1,MMcfd
+23,Pemex Consumption (MMcfd),24,Exploration & Production (MMcfd),Link23,1,MMcfd
+23,Pemex Consumption (MMcfd),25,Refinery (MMcfd),Link24,1,MMcfd
+23,Pemex Consumption (MMcfd),26,Petrochemicals (MMcfd),Link25,1,MMcfd
+23,Pemex Consumption (MMcfd),27,Corporative (MMcfd),Link26,1,MMcfd
+23,Pemex Consumption (MMcfd),28,Auto Consumption (MMcfd),Link27,1,MMcfd
+22,Pemex Supply (MMcfd),29,New Pemex Cogeneration (MMcfd),Link28,1,MMcfd
+22,Pemex Supply (MMcfd),30,Sales (MMcfd),Link29,1,MMcfd
+30,Sales (MMcfd),31,Comercial (MMcfd),Link30,1,MMcfd
+30,Sales (MMcfd),32,Independent Power Producers (MMcfd),Link31,1,MMcfd
+30,Sales (MMcfd),33,First Hand Sales (MMcfd),Link32,1,MMcfd
+22,Pemex Supply (MMcfd),34,Line Pack and exports (MMcfd),Link33,1,MMcfd
+22,Pemex Supply (MMcfd),35,Statistical differences (MMcfd),Link34,1,MMcfd
+31,Comercial (MMcfd),36,Gas Supply to Non-Oil Sector (MMcfd),Link35,1,MMcfd
+32,Independent Power Producers (MMcfd),36,Gas Supply to Non-Oil Sector (MMcfd),Link36,1,MMcfd
+33,First Hand Sales (MMcfd),36,Gas Supply to Non-Oil Sector (MMcfd),Link37,1,MMcfd
+21,Non Pemex Imports (MMcfd),36,Gas Supply to Non-Oil Sector (MMcfd),Link38,1,MMcfd

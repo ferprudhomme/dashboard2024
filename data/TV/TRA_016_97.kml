@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Placemark>
+	<name>TRA_016_97</name>
+	<open>1</open>
+	<snippet></snippet>
+	<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>DUC-TR-GSD-D0023-TRM01</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>TRAM_KM_INI</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TRAM_KM_FIN</td>
+
+<td>37060</td>
+
+</tr>
+
+<tr>
+
+<td>TRAM_DIAM</td>
+
+<td>24</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROPIETARIO</td>
+
+<td>Gasoductos de Chihuahua</td>
+
+</tr>
+
+<tr>
+
+<td>TRAM_NOMB</td>
+
+<td>SAN ISIDRO-SAMALAYUCA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TRAM_SERV</td>
+
+<td>GSD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+	<ExtendedData>
+		<Data name="name">
+			<value>Gasoductos de Chihuahua</value>
+		</Data>
+		<Data name="styleUrl">
+			<value>#inline372010100000</value>
+		</Data>
+		<Data name="styleHash">
+			<value>-4a2a9f7d</value>
+		</Data>
+		<Data name="styleMapHash">
+			<value>[object Object]</value>
+		</Data>
+		<Data name="description">
+			<value><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>DUC-TR-GSD-D0023-TRM01</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>TRAM_KM_INI</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TRAM_KM_FIN</td>
+
+<td>37060</td>
+
+</tr>
+
+<tr>
+
+<td>TRAM_DIAM</td>
+
+<td>24</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PROPIETARIO</td>
+
+<td>Gasoductos de Chihuahua</td>
+
+</tr>
+
+<tr>
+
+<td>TRAM_NOMB</td>
+
+<td>SAN ISIDRO-SAMALAYUCA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TRAM_SERV</td>
+
+<td>GSD</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></value>
+		</Data>
+		<Data name="stroke">
+			<value>#ffff00</value>
+		</Data>
+		<Data name="stroke-opacity">
+			<value>1</value>
+		</Data>
+		<Data name="stroke-width">
+			<value>2</value>
+		</Data>
+		<Data name="fill-opacity">
+			<value>0</value>
+		</Data>
+	</ExtendedData>
+	<gx:balloonVisibility>1</gx:balloonVisibility>
+	<MultiGeometry>
+		<LineString>
+			<coordinates>
+				-106.491252,31.327953,0 -106.489794,31.332449,0 -106.48097,31.366103,0 -106.472146,31.406441,0 -106.466163,31.434923,0 -106.467139,31.450983,0 -106.461181,31.453206,0 -106.45209,31.456916,0 -106.450321,31.46113,0 -106.407354,31.479523,0 -106.359769,31.49979799999999,0 -106.283441,31.532118,0 -106.270998,31.536238,0 -106.262414,31.540869,0 -106.256651,31.54216,0 -106.253767,31.544776,0 
+			</coordinates>
+		</LineString>
+		<LineString>
+			<coordinates>
+				-106.491252,31.327953,0 -106.489794,31.332449,0 -106.48097,31.366103,0 -106.472146,31.406441,0 -106.466163,31.434923,0 -106.467139,31.450983,0 -106.461181,31.453206,0 -106.45209,31.456916,0 -106.450321,31.46113,0 -106.407354,31.479523,0 -106.359769,31.49979799999999,0 -106.283441,31.532118,0 -106.270998,31.536238,0 -106.262414,31.540869,0 -106.256651,31.54216,0 -106.253767,31.544776,0 
+			</coordinates>
+		</LineString>
+	</MultiGeometry>
+</Placemark>
+</kml>

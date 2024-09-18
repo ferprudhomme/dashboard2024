@@ -1,0 +1,38 @@
+﻿ID,Name,group,units
+0,Associated Gas (MMcfd),A,MMcfd
+1,Non-Associated Gas (MMcfd),A,MMcfd
+2,National Producction (MMcfd),A,MMcfd
+3,Dry Gas Fields (MMcfd),A,MMcfd
+4,Gas Plants (MMpcfd),A,MMcfd
+5,Gas venting (MMcfd),B,MMcfd
+6,Impurities (MMcfd),B,MMcfd
+7,Gasolines (Mbd),B,Mbd
+8,Ethane (Mbd),B,Mbd
+9,Gas Liquids (Mbd),B,Mbd
+10,Dry Gas (MMcfd),A,MMcfd
+11,Ciudad Juárez (MMcfd),A,MMcfd
+12,Monterrey (MMcfd),A,MMcfd
+13,Naco (MMcfd),A,MMcfd
+14,Piedras Negras (MMcfd),A,MMcfd
+15,Reynosa (MMcfd),A,MMcfd
+16,Rosarito (MMcfd),A,MMcfd
+17,Manzanillo (MMcfd),A,MMcfd
+18,Camargo (MMcfd),A,MMcfd
+19,Ethane to gas pipelines (MMcfd),A,MMcfd
+20,Pemex Imports (MMcfd),A,MMcfd
+21,Non Pemex Imports (MMcfd),A,MMcfd
+22,Pemex Supply (MMcfd),A,MMcfd
+23,Pemex Consumption (MMcfd),A,MMcfd
+24,Exploration & Production (MMcfd),B,MMcfd
+25,Refinery (MMcfd),B,MMcfd
+26,Petrochemicals (MMcfd),B,MMcfd
+27,Corporative (MMcfd),B,MMcfd
+28,Auto Consumption (MMcfd),B,MMcfd
+29,New Pemex Cogeneration (MMcfd),B,MMcfd
+30,Sales (MMcfd),A,MMcfd
+31,Comercial (MMcfd),B,MMcfd
+32,Independent Power Producers (MMcfd),B,MMcfd
+33,First Hand Sales (MMcfd),B,MMcfd
+34,Line Pack and exports (MMcfd),B,MMcfd
+35,Statistical differences (MMcfd),B,MMcfd
+36,Gas Supply to Non-Oil Sector (MMcfd),B,MMcfd

@@ -1,0 +1,1198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Inyección Balance SISTRANGAS.kml</name>
+	<Style id="sh_arrow301">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.816666</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_arrow3005">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_arrow40005</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_arrow0205</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_arrow300">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_arrow40000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_arrow020</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_arrow4000">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_arrow0207">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_arrow30003">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_arrow4003</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_arrow02003</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_arrow30">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.816666</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_arrow40007">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_arrow02001">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_arrow400">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_arrow210">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_arrow300</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_arrow300</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_arrow3000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_arrow400</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_arrow0200</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_arrow02007">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_arrow02002">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_arrow">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.816666</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_arrow0206">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_arrow301">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_arrow3006">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_arrow40006</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_arrow0206</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_arrow">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl2">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_arrow40006">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_arrow02005">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_arrow4007">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_arrow212">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_arrow302</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_arrow302</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_arrow40005">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_arrow4002">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_arrow302">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.816666</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_arrow30">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_arrow0205">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_arrow">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_arrow</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_arrow0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_arrow40000">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_arrow3">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.816666</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_arrow30004">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_arrow4004</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_arrow02004</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_arrow30000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_arrow4000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_arrow02000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_arrow02003">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_arrow0">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.816666</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_arrow02000">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_arrow4004">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_arrow020">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_arrow4003">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_arrow1">
+		<IconStyle>
+			<color>ff1920e5</color>
+			<scale>1.06364</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_arrow02004">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_arrow30005">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_arrow4005</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_arrow02005</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_arrow211">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_arrow301</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_arrow301</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_arrow30002">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_arrow4002</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_arrow02002</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_arrow3007">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_arrow40007</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_arrow0207</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_arrow2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_arrow3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_arrow3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin2">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_arrow21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_arrow30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_arrow30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_arrow30007">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_arrow4007</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_arrow02007</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_arrow4005">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_arrow4001">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_arrow0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_arrow1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_arrow</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_arrow3">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_arrow0">
+		<IconStyle>
+			<color>ff1920e5</color>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_arrow30001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_arrow4001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_arrow02001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_arrow302">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_arrow300">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_arrow1">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_arrow300">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.816666</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_arrow1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_arrow0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_arrow1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_arrow0200">
+		<IconStyle>
+			<color>ffffaa00</color>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>Inyección</name>
+		<open>1</open>
+		<Placemark>
+			<name>Burgos</name>
+			<open>1</open>
+			<description>Nodo Pemex V9B6
+N82</description>
+			<LookAt>
+				<longitude>-98.46203577106704</longitude>
+				<latitude>26.00314143051876</latitude>
+				<altitude>0</altitude>
+				<heading>1.447826503464258</heading>
+				<tilt>2.080919093752869</tilt>
+				<range>13013.83877599772</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_arrow30007</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-98.48212361839464,26.01633500968645,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Monclova</name>
+			<open>1</open>
+			<description>Nodo Pemex V036</description>
+			<LookAt>
+				<longitude>-101.0939153475062</longitude>
+				<latitude>27.06277579536263</latitude>
+				<altitude>0</altitude>
+				<heading>0.167221798574995</heading>
+				<tilt>0.5487391636306053</tilt>
+				<range>73099.03374719305</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_arrow3007</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-101.3736950452688,27.04940904205487,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nejo</name>
+			<open>1</open>
+			<description>Nodo Pemex V056
+N71</description>
+			<LookAt>
+				<longitude>-98.11028369761544</longitude>
+				<latitude>24.77604007656289</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5388471242402958</heading>
+				<tilt>13.94684762735659</tilt>
+				<range>4285.451798886913</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_arrow30004</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-98.12649046969477,24.77188125230498,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mareografos</name>
+			<open>1</open>
+			<description>Nodo Pemex V059
+N73</description>
+			<LookAt>
+				<longitude>-99.12740304529211</longitude>
+				<latitude>25.61413742365147</latitude>
+				<altitude>0</altitude>
+				<heading>0.08670813816958649</heading>
+				<tilt>3.287555544233082</tilt>
+				<range>9712.133607733729</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_arrow30005</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-99.15685607521347,25.60016775030078,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nuevo Pemex</name>
+			<open>1</open>
+			<description>Nodo Pemex V024
+N12</description>
+			<LookAt>
+				<longitude>-93.13164002846392</longitude>
+				<latitude>17.8571983526664</latitude>
+				<altitude>0</altitude>
+				<heading>1.175758823624785</heading>
+				<tilt>7.065171794802967</tilt>
+				<range>15876.01542293791</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_arrow3000</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-93.12418378455072,17.85154024204122,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cactus</name>
+			<open>1</open>
+			<description>Nodo Pemex V025
+N12</description>
+			<LookAt>
+				<longitude>-93.15765409318747</longitude>
+				<latitude>17.91626848678979</latitude>
+				<altitude>0</altitude>
+				<heading>1.167799854836235</heading>
+				<tilt>7.064477636661458</tilt>
+				<range>15892.80498928857</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_arrow30000</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-93.18767521738803,17.90273712507094,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La Venta</name>
+			<open>1</open>
+			<description>Nodo Pemex V907
+N22</description>
+			<LookAt>
+				<longitude>-94.03533412227063</longitude>
+				<latitude>18.09123005950803</latitude>
+				<altitude>0</altitude>
+				<heading>0.8937075566719668</heading>
+				<tilt>10.17179232513611</tilt>
+				<range>3104.592093674459</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_arrow30001</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-94.04324232678526,18.09001603982603,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Poza Rica</name>
+			<open>1</open>
+			<description>Nodo Pemex V905
+N56</description>
+			<LookAt>
+				<longitude>-97.46144194437954</longitude>
+				<latitude>20.52480560639493</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3170743768117901</heading>
+				<tilt>16.6013955850825</tilt>
+				<range>8037.581756350299</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_arrow30003</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-97.4779851216404,20.51752710841387,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lankahuasa (Raudal)</name>
+			<open>1</open>
+			<description>Nodo Pemex V051
+N64</description>
+			<LookAt>
+				<longitude>-96.7375363849049</longitude>
+				<latitude>20.11907827008605</latitude>
+				<altitude>0</altitude>
+				<heading>-0.4764431770359958</heading>
+				<tilt>7.96247412809913</tilt>
+				<range>2513.214217486726</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_arrow3006</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-96.7444325696014,20.11816536539543,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Playuela</name>
+			<open>1</open>
+			<description>Nodo Pemex V042
+N59</description>
+			<LookAt>
+				<longitude>-96.0286135939064</longitude>
+				<latitude>19.01373418971006</latitude>
+				<altitude>0</altitude>
+				<heading>2.040308339278263</heading>
+				<tilt>0</tilt>
+				<range>103114.9296163406</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_arrow3005</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-96.00101212664953,18.93789863054068,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Matapionche</name>
+			<open>1</open>
+			<description>Nodo Pemex V908
+N51</description>
+			<LookAt>
+				<longitude>-96.39680926017431</longitude>
+				<latitude>18.82378237461738</latitude>
+				<altitude>0</altitude>
+				<heading>0.08024906582579883</heading>
+				<tilt>15.21515961442833</tilt>
+				<range>3952.082782183109</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_arrow30002</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-96.40139067469808,18.81551573019443,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PEP Mendoza</name>
+			<open>1</open>
+			<description>Nodo Pemex V045 
+N58</description>
+			<LookAt>
+				<longitude>-95.75683314800698</longitude>
+				<latitude>18.18427438091813</latitude>
+				<altitude>0</altitude>
+				<heading>0.2705238775123024</heading>
+				<tilt>16.68067777583173</tilt>
+				<range>1037.361500176598</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_arrow300</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-95.75809381615416,18.18420625212445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Manzanillo (EL Castillo)</name>
+			<open>1</open>
+			<description>Nodo Pemex V918
+N48</description>
+			<LookAt>
+				<longitude>-103.1311037346268</longitude>
+				<latitude>20.54249452359572</latitude>
+				<altitude>0</altitude>
+				<heading>-0.9371451615160606</heading>
+				<tilt>11.16594680870001</tilt>
+				<range>43718.17384529846</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_arrow</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-103.2235704504926,20.50707162121683,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Montegrande</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-97.37485932144133</longitude>
+				<latitude>20.98252126360083</latitude>
+				<altitude>0</altitude>
+				<heading>1.880330998254387</heading>
+				<tilt>19.63745648855969</tilt>
+				<range>567.2403020233091</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin5</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-97.37645000000001,20.982748,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GNL Altamira</name>
+			<open>1</open>
+			<description>Nodo Pemex V055</description>
+			<LookAt>
+				<longitude>-97.89018646805032</longitude>
+				<latitude>22.50268742479735</latitude>
+				<altitude>0</altitude>
+				<heading>1.754578634153005</heading>
+				<tilt>5.264388689618983</tilt>
+				<range>5892.458226385805</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_arrow0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-97.90787614655405,22.50543249695799,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tennessee / TETCO</name>
+			<open>1</open>
+			<description>Nodo Pemex V033
+N74</description>
+			<LookAt>
+				<longitude>-98.25710325638488</longitude>
+				<latitude>26.08545760266471</latitude>
+				<altitude>0</altitude>
+				<heading>-1.093691471020129</heading>
+				<tilt>6.240318221058828</tilt>
+				<range>5826.772689311235</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_arrow212</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-98.26561802504123,26.08610554602804,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Coral / Energy Transfer</name>
+			<open>1</open>
+			<description>Nodo Pemex V032
+N83</description>
+			<LookAt>
+				<longitude>-98.42898723567873</longitude>
+				<latitude>26.2054927722369</latitude>
+				<altitude>0</altitude>
+				<heading>-1.168078335647046</heading>
+				<tilt>5.180648143795773</tilt>
+				<range>10572.4064022986</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_arrow211</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-98.43604503171395,26.19442272384294,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Camargo</name>
+			<open>1</open>
+			<description>Nodo Pemex V061
+N123</description>
+			<LookAt>
+				<longitude>-98.76433418145979</longitude>
+				<latitude>26.29082866456892</latitude>
+				<altitude>0</altitude>
+				<heading>-1.187352873883786</heading>
+				<tilt>1.992525742269932</tilt>
+				<range>19424.55861347444</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_arrow210</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-98.74959570081936,26.32474421611731,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gloria a Dios</name>
+			<open>1</open>
+			<description>Nodo Pemex V053 y V030
+N118</description>
+			<LookAt>
+				<longitude>-106.4598730060795</longitude>
+				<latitude>31.4528766904106</latitude>
+				<altitude>0</altitude>
+				<heading>-1.67449437401487</heading>
+				<tilt>12.25852937521707</tilt>
+				<range>576.0887747330893</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_arrow2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-106.460579202373,31.4522269489266,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kinder Morgan</name>
+			<open>1</open>
+			<description>Nodo Pemex V037
+N96</description>
+			<LookAt>
+				<longitude>-100.0760364906728</longitude>
+				<latitude>25.76294333270095</latitude>
+				<altitude>0</altitude>
+				<heading>0.7012433911068822</heading>
+				<tilt>4.4447437216377</tilt>
+				<range>5169.489074178927</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_arrow21</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-100.090550605929,25.7612297574309,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>El Sauz</name>
+			<Camera>
+				<longitude>-100.014694865084</longitude>
+				<latitude>20.38350267947241</latitude>
+				<altitude>62781.69343438013</altitude>
+				<heading>-1.685786290472143</heading>
+				<tilt>0.5608506246029252</tilt>
+				<roll>-1.691175440361486</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_arrow1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-100.1227135487003,20.44914264146053,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GAZA</name>
+			<LookAt>
+				<longitude>-103.0622231407873</longitude>
+				<latitude>20.55049170666207</latitude>
+				<altitude>0</altitude>
+				<heading>-0.9116895776861439</heading>
+				<tilt>11.293219462954</tilt>
+				<range>7071.280238806938</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_arrow1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-103.0737342799294,20.55058227554978,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

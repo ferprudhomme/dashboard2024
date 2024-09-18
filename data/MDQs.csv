@@ -1,0 +1,80 @@
+﻿system,receipt_point,delivery_sector,MDQ,rank
+SISTRANGAS,Altamira,Various,1756.681,LNG Imports
+SISTRANGAS,Altamira,Oil,47.424,LNG Imports
+SISTRANGAS,Altamira,Industrial,93.761,LNG Imports
+SISTRANGAS,Altamira,Distribution,3436.612,LNG Imports
+SISTRANGAS,Altamira,Electric,200687.14,LNG Imports
+SISTRANGAS,Burgos,Industrial,29869.8,Gas Plant
+SISTRANGAS,Burgos,Electric,651033.23,Gas Plant
+SISTRANGAS,Coral,Various,140628.3,Pipeline Imports
+SISTRANGAS,Coral,Industrial,86514.19,Pipeline Imports
+SISTRANGAS,Coral,Distribution,33432.041,Pipeline Imports
+SISTRANGAS,Coral,Electric,41395.905,Pipeline Imports
+SISTRANGAS,El Castillo,Various,60000,Bypass
+SISTRANGAS,El Castillo,Distribution,55310,Bypass
+SISTRANGAS,El Sauz,Electric,448662.61,Bypass
+SISTRANGAS,Energy Transfer,Industrial,46173.14,Pipeline Imports
+SISTRANGAS,Energy Transfer,Distribution,38860.91,Pipeline Imports
+SISTRANGAS,Energy Transfer,Electric,105510,Pipeline Imports
+SISTRANGAS,Gloria a Dios,Various,7054.48,Pipeline Imports
+SISTRANGAS,Gloria a Dios,Industrial,24555.6,Pipeline Imports
+SISTRANGAS,Gloria a Dios,Distribution,35014.93,Pipeline Imports
+SISTRANGAS,KM Monterrey,Various,49857.02,Pipeline Imports
+SISTRANGAS,KM Monterrey,Industrial,185682.23,Pipeline Imports
+SISTRANGAS,KM Monterrey,Distribution,2644,Pipeline Imports
+SISTRANGAS,KM Monterrey,Electric,52465,Pipeline Imports
+SISTRANGAS,La Venta,Various,221851.25,Gas Plant
+SISTRANGAS,La Venta,Industrial,382,Gas Plant
+SISTRANGAS,La Venta,Distribution,1520,Gas Plant
+SISTRANGAS,Mareógrafo,Various,18121.13,Gas Field
+SISTRANGAS,Mareógrafo,Industrial,320,Gas Field
+SISTRANGAS,Mareógrafo,Distribution,916.44,Gas Field
+SISTRANGAS,Mendoza,Various,92071.31,Gas Field
+SISTRANGAS,Mendoza,Industrial,102473.92,Gas Field
+SISTRANGAS,Mendoza,Distribution,51285.78,Gas Field
+SISTRANGAS,Monclova,Industrial,1008.182,Gas Field
+SISTRANGAS,Nejo,Various,77655.23,Gas Field
+SISTRANGAS,Nejo,Oil,84,Gas Field
+SISTRANGAS,Nejo,Industrial,14818.38,Gas Field
+SISTRANGAS,Nejo,Distribution,1315.14,Gas Field
+SISTRANGAS,Nejo,Electric,35349,Gas Field
+SISTRANGAS,Nuevo Pemex,Various,1088615.62,Gas Plant
+SISTRANGAS,Nuevo Pemex,Oil,266966,Gas Plant
+SISTRANGAS,Nuevo Pemex,Industrial,54362,Gas Plant
+SISTRANGAS,Nuevo Pemex,Distribution,8816.03,Gas Plant
+SISTRANGAS,Playuela,Industrial,737,Gas Field
+SISTRANGAS,Playuela,Electric,36000,Gas Field
+SISTRANGAS,Poza Rica,Various,25131,Gas Plant
+SISTRANGAS,Poza Rica,Industrial,2710.26,Gas Plant
+SISTRANGAS,Poza Rica,Distribution,20523,Gas Plant
+SISTRANGAS,Ramones,Various,269824.64,Pipeline Imports
+SISTRANGAS,Ramones,Oil,64266.58,Pipeline Imports
+SISTRANGAS,Ramones,Industrial,246630.57,Pipeline Imports
+SISTRANGAS,Ramones,Distribution,228478.44,Pipeline Imports
+SISTRANGAS,Ramones,Electric,1117767.16,Pipeline Imports
+SISTRANGAS,Raudal,Various,849,Gas Field
+SISTRANGAS,Reynosa Tennessee,Various,26305.93,Pipeline Imports
+SISTRANGAS,Reynosa Tennessee,Industrial,11338.39,Pipeline Imports
+SISTRANGAS,Reynosa Tennessee,Distribution,57719.17,Pipeline Imports
+SISTRANGAS,Reynosa Tennessee,Electric,55979,Pipeline Imports
+SISTRANGAS,Reynosa Tetco,Industrial,3803.14,Pipeline Imports
+Mayakan,Cactus Mayakan,Electric,262800.1416,Gas Plant
+STT,Brownsville,Electric,198040.8,Pipeline Imports
+STT,Brownsville,Various,2293104,Pipeline Imports
+STT,Brownsville,Industrial,218887.2,Pipeline Imports
+TGNH,Naranjos,Industrial,3241.6152,Pipeline Imports
+TGNH,Naranjos,Electric,444028.32,Pipeline Imports
+TGNH,Naranjos,Distribution,656661.6,Pipeline Imports
+EOM,KMS,Electric,521160,LNG Imports
+EOM,KMS,Various,708777.6,LNG Imports
+EOM,El Castillo EOM,Various,3126.96,Bypass
+IEM,El Oro,Electric,531583.2,Bypass
+IEM,El Encino,Electric,377319.84,Bypass
+TGT,Palmillas,Distribution,36481.2,Bypass
+TGT,Palmillas,Industrial,5211.6,Bypass
+GRO,Algodones Yuma,Various,105241.82,Bypass
+GRO,ECA,Various,2757915.99,LNG Imports
+GRO,ECA,Electric,"63,303.35",LNG Imports
+GRO,Ogilby,Industrial,3481.6848,Pipeline Imports
+GRO,Ogilby,Electric,292250.512,Pipeline Imports
+GRO,Ogilby,Various,262392.4272,Pipeline Imports
